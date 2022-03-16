@@ -1,0 +1,84 @@
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+
+/* HEADER */
+
+.header .logo img {
+    width: 100px;
+}
+
+.header h1 {
+    color: white;
+    background-color: red;
+}
+
+
+/* NAVIGATION */
+
+.navigation {
+    font-size: 20px;
+}
+
+
+/* INTRODUCE */
+
+.introduce {
+    background-color: brown;
+}
+
+.introduce p {
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+}
+
+.introduce span {
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.introduce img {
+    width: 50%;
+}
+
+
+/* DEVELOPE */
+
+.develope {
+    background-color: brown;
+}
+
+.develope ul li {
+    color: white;
+    font-size: 25px;
+}
+
+.develope img {
+    width: 50%;
+}
+
+
+/* PRODUCT */
+
+.product .title {
+    color: black;
+    font-size: 2rem;
+}
+
+
+/* NEWS */
+
+.news {
+    background-color: white;
+    font-size: 20px;
+    width: 60%;
+}
+
+.news .title {
+    color: brown;
+}
